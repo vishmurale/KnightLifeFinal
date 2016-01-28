@@ -21,7 +21,7 @@ override init() {
     
    // Parse.setApplicationId("BPYBAkzK8Wa0LdozJpfRqnTVb14MTyi8XiQ1rhE8", clientKey: "YskOxJOe5iJcbQAfC3uuX7OgiSYzmIfb9DtrPx1y")
     
-     Parse.setApplicationId("oyTMtQeSVJYSm9mMFmpinYJv4RHyNuFnkvUJGicF", clientKey: "7faBIWTyj7EaQbsKx8VGXxaaHvdYvsx5Oa0hYRdk")
+     Parse.setApplicationId("hello", clientKey: "goodonegithub")
     
 }
 

@@ -36,7 +36,7 @@ class TodayViewController: UIViewController, NCWidgetProviding {
         
         
         
-        Parse.setApplicationId("oyTMtQeSVJYSm9mMFmpinYJv4RHyNuFnkvUJGicF", clientKey: "7faBIWTyj7EaQbsKx8VGXxaaHvdYvsx5Oa0hYRdk")
+        Parse.setApplicationId("youthoughthiswouldbeapassword", clientKey: "notthistime")
         
         
         self.update_widget()
