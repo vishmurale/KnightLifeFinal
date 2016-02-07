@@ -38,6 +38,7 @@ class TodayViewController: UIViewController, NCWidgetProviding {
         //parse goes here
         
         
+        
         self.update_widget()
         
         
