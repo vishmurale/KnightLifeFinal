@@ -35,8 +35,8 @@ class TodayViewController: UIViewController, NCWidgetProviding {
         self.preferredContentSize = CGSizeMake(screenWidth, 300);
         
         
+        //parse goes here
         
-        Parse.setApplicationId("youthoughthiswouldbeapassword", clientKey: "notthistime")
         
         
         self.update_widget()
