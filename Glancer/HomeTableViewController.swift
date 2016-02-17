@@ -65,7 +65,7 @@ class HomeTableViewController: UITableViewController {
                 checkSecondLunch()
             }
           
-         
+         //whip 
             labels = []
             self.labelsGenerated = false;
             generateLabels()
