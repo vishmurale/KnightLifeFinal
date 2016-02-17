@@ -60,7 +60,7 @@ class WeekTableViewController: UITableViewController {
         self.dayNum = segControl.selectedSegmentIndex
         
         timer = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: "doEverything", userInfo: nil, repeats: true)
-    }
+    }//hi
     
     func doEverything() {
         

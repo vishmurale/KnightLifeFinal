@@ -244,7 +244,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         print("Scheduled Notifications")
 
         
-        let alert = UIAlertController(title: "Save", message: "Congrats your data has been Saved!", preferredStyle: UIAlertControllerStyle.Alert)
+        let alert = UIAlertController(title: "Saved!", message: "Your data has been saved.", preferredStyle: UIAlertControllerStyle.Alert)
         alert.addAction(UIAlertAction(title: "Ok", style: UIAlertActionStyle.Default, handler: nil))
         self.presentViewController(alert, animated: true, completion: nil)
         
