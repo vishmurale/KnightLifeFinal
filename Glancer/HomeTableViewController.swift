@@ -57,14 +57,17 @@ class HomeTableViewController: UITableViewController {
         
         if (appDelegate.Days.count > 0){
  
+         
+            
             updateMainHomePage()
 
-            
             if dayNum < 5 {
                 checkSecondLunch()
             }
           
-            
+         
+            labels = []
+            self.labelsGenerated = false;
             generateLabels()
             getNumOfRows()
             
